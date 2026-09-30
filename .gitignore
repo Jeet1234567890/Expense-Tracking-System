@@ -1,0 +1,19 @@
+# IDE Settings
+.idea/
+.vscode/
+
+# Log files
+*.log
+backend/*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environments
+.env
+venv/
+env/
